@@ -16,7 +16,10 @@ Getting Started
 
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
-
+![showcase_1](https://user-images.githubusercontent.com/33226462/39635196-acb8f390-4fb4-11e8-86b5-bd0fc8339af7.png)
+![showcase_2](https://user-images.githubusercontent.com/33226462/39635198-acd500c6-4fb4-11e8-9784-fc74d1872dd9.png)
+![showcase_3](https://user-images.githubusercontent.com/33226462/39635199-acf274b2-4fb4-11e8-9573-0c5ace9b422a.png)
+![showcase_4](https://user-images.githubusercontent.com/33226462/39635200-ad0fe1a0-4fb4-11e8-8a55-ea8cbefbe144.png)
 Support
 -------
 
